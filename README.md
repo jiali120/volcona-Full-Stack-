@@ -1,5 +1,7 @@
 # volcona-Full-Stack-
 
+* Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more.
+
 # Volcanic Eruption Database
 
 ## Description
